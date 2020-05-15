@@ -12,7 +12,7 @@
 にしました．ただし，トレードオフとして誤変換を人手による修正は一旦置き，各自音声認識に合わせてもらうことにしました．（今でもラボメンバーが音声認識に合わせているのかは把握していない）  
 しかし，Google 音声文字変換は，Androidにしか配布されていないアプリであるため，PCに音源を送信するかを考慮する必要があります．今回は考慮したシステム構成4つの活用事例で紹介します．
 
-    1. [2台のPCを用いる事例](/case/Usning_2pc)
+    1. [2台のPCを用いる事例](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_2pc)
     1. 
     1. 
     1. 
