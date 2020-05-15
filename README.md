@@ -4,7 +4,8 @@
 # About / 概要
 聴覚障害者が会議に参加しにくい問題があり，音声認識を用いて情報共有しようと試みられています．2020年5月現在，新型コロナウイルスの流行により，リモートにて会議がほとんどになりつつありますが，聴覚障害者が参加しにくく，音声認識を活用できていない課題が今にも残されています．そこで，聴覚障害当事者と所属研究室の皆さんとの協調によって考案した，3つの活用事例を紹介いたします．
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/xdiversity?src=hash&amp;ref_src=twsrc%5Etfw">#xdiversity</a> <a href="https://twitter.com/xdiversity_org?ref_src=twsrc%5Etfw">@xdiversity_org</a> <a href="https://twitter.com/hashtag/stayhometokyo?src=hash&amp;ref_src=twsrc%5Etfw">#stayhometokyo</a> <a href="https://twitter.com/hashtag/%E9%9F%B3%E5%A3%B0%E6%96%87%E5%AD%97%E5%A4%89%E6%8F%9B?src=hash&amp;ref_src=twsrc%5Etfw">#音声文字変換</a> <a href="https://t.co/VNKQcZONsR">pic.twitter.com/VNKQcZONsR</a></p>&mdash; 落合陽一 (@ochyai) <a href="https://twitter.com/ochyai/status/1260610691041357825?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![thumbnail](https://pbs.twimg.com/ext_tw_video_thumb/1260610549529759745/pu/img/Hqi90pq6yoBZvtzT.jpg)](https://twitter.com/ochyai/status/1260610691041357825/video/1)
+
 
 # 基本的な考え方
 私の考えとしては，**リアルタイムで会話を展開**であり，誤変換を人手による修正は一旦置いといて，各自音声認識に合わせてもらうことにしました．
