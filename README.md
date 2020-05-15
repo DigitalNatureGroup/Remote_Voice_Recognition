@@ -40,5 +40,4 @@ Google 音声文字変換は，誰かが発言したのか掴みにくい問題�
   
 1. ネットワーク
 1時間ほどで使い続けていると，誤変換が増えていきます．キャッシュ問題なのかは不明ですが，一旦キャッシュをクリアする，もしくは再起動するなどで，元に戻ります．後はやはりネットワーク環境が大事になってくるので，早く日本語でもオフラインで対応して欲しい気持ちがあるので，今後のGoogleに期待しています．   
-注)Google 音声文字変換は，Pixel系スマートフォン，英語の2つの制約をクリアすれば，オフラインで認識されるようになっています．
-    - ソース: https://jp.techcrunch.com/2019/03/13/2019-03-12-googles-new-voice-recognition-system-works-instantly-and-offline-if-you-have-a-pixel/
+注) Google 音声文字変換は，Pixel系スマートフォン，英語の2つの制約をクリアすれば，オフラインで認識されるようになっています．（ソース：[Googleの新音声認識はオフライン化されて高速に、Pixelで利用可能](https://jp.techcrunch.com/2019/03/13/2019-03-12-googles-new-voice-recognition-system-works-instantly-and-offline-if-you-have-a-pixel/)）
