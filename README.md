@@ -12,11 +12,14 @@
 にしました．ただし，トレードオフとして誤変換を人手による修正は一旦置き，各自音声認識に合わせてもらうことにしました．（今でもラボメンバーが音声認識に合わせているのかは把握していない）  
 しかし，Google 音声文字変換は，Androidにしか配布されていないアプリであるため，PCに音源を送信するかを考慮する必要があります．今回は考慮したシステム構成4つの活用事例で紹介します．
 
-    - [2台のPCを用いる事例](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_2pc)
-    - [ビデオスイッチャーを用いる事例](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_VideoSwitcher)
-    - [zoom上でOBSの仮想カメラを用いる事例](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_OBS_in_zoom)
-    - [他のツール上でOBSの仮想カメラを用いる事例](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_in_Other)
-
+  - [2台のPCを用いる事例](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_2pc)
+    - 手元に2台のPCがある方向け
+  - [ビデオスイッチャーを用いる事例](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_VideoSwitcher)
+    - 手元にビデオスイッチャー がある方向け
+  - [zoom上でOBSの仮想カメラを用いる事例](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_OBS_in_zoom)
+    - なるべくハードウェア（製品）を揃えない，ビデオ会議ツールのzoomを主に用いる方向け
+  - [他のツール上でOBSの仮想カメラを用いる事例](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_in_Other)
+    - なるべくハードウェア（製品）を揃えない，zoom以外のビデオ会議ツールを用いる方
 
 
 ## 課題
