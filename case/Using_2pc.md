@@ -1,5 +1,5 @@
 # 2台のPCを用いた活用事例
-この方法は，音声認識を活用する用PC，自分が参加する用PCの2台で活用するものです．
+音声認識を活用する用PC，自分が参加する用PCの2台で活用した方法です．
 
 ![システム](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Remote_Voice_Recognition-Using_2pc_ThetaAkihisa-JP.jpg)
 
@@ -13,7 +13,7 @@
 - [TASCAM iXZ](https://tascam.jp/jp/product/ixz/top)
   - USB Audio InterfaceからAndroidに接続するための変換インターフェース
 - [logicool HD WEBCAM C270M](https://www.logicool.co.jp/ja-jp/product/hd-webcam-c270h#specification-tabular)
-  
+  - 音声認識による文字起こしを収録するWebカメラ
   
   
   
