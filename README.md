@@ -14,13 +14,14 @@
 自動文字起こしでは，リアルタイム性とのトレードオフとして誤変換が多く発生します．手動での修正は行わず，各自自動文字起こしに合わせて発言してもらうことにしました．文字起こしの結果は，聴覚障害者本人だけでなくWeb会議システム上に表示しているので，誤変換が発生した場合には発言しなおすなどの対応が可能です．  
 Google 音声文字変換は，現状Android向けアプリのみで利用可能となっているため，Web会議システムの音声をどのようにアプリに送るか，認識結果をどのようにPCへ送るかを工夫する必要があります．そのシステム構成について，4つの方法を紹介します．  
 しかし，Google 音声文字変換は，Androidにしか配布されていないアプリであるため，PCに音源を送信するかを考慮する必要があります．今回は考慮したシステム構成4つの活用事例で紹介します．  
-  - [2台のPCを用いる方法](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_2pc)
+  - [2台のPCを用いる方法](case/Using_2pc)
     - 手元に2台のPCがある方向け
-  - [ビデオスイッチャーを用いる方法](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_VideoSwitcher)
+    - ![イメージ図](case/fig/Thumbnail-Using_2pc_ThetaAkihisa-JP.jpg)
+  - [ビデオスイッチャーを用いる方法](case/Using_VideoSwitcher)
     - 手元にビデオスイッチャーがある方向け
-  - [Zoom上でOBSの仮想カメラを用いる方法](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_OBS_in_zoom)
+  - [Zoom上でOBSの仮想カメラを用いる方法](case/Using_OBS_in_zoom)
     - なるべくハードウェア（製品）を追加で導入しない，ビデオ会議ツールのZoomを主に用いる方向け
-  - [他のツール上でOBSの仮想カメラを用いる方法](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/Using_in_Other)
+  - [他のツール上でOBSの仮想カメラを用いる方法](case/Using_in_Other)
     - なるべくハードウェア（製品）を追加で導入しない，Zoom以外のビデオ会議ツールを用いる方向け
 
 
