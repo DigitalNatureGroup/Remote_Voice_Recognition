@@ -3,8 +3,7 @@
 
 まず，音声認識を活用し
 
-![システム](/case/fig/Remote_Voice_Recognition-Using_2pc_ThetaAkihisa-JP?raw=true)
-
+![システム](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Remote_Voice_Recognition-Using_2pc_ThetaAkihisa-JP.jpg)
 
 - [MacBook Pro 2019 13インチ (CPU: 2.4GHz クアッドコア， メモリ: 8GB ，グラフィックス: Intel Iris Plus Graphics 655 1536MB)](https://support.apple.com/kb/SP795?viewlocale=ja_JP&locale=ja_JP)
   - 音声認識を活用するPC
