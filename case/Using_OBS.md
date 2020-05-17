@@ -37,6 +37,13 @@
     1. 音声認識の音声文字変換を起動する
     
     1. OBSを起動し，仮想カメラ機能を用いて，Pixel 4の画面を収録する
+        1. OBSの仮想カメラについて  
+            この[OBS-Mac-Vitrualcam](https://github.com/johnboiles/obs-mac-virtualcam#installing)にて説明されているので，参考しながら，予めインストールしておくと楽になります．
+              
+          
+            - [OSがWindowsのかたはこちらを参考していただけると嬉しいです．](https://github.com/CatxFish/obs-virtual-cam/releases)
+            -   - Mac版はこちらを参考していただけると嬉しいです
+        1. 
 
     
     
