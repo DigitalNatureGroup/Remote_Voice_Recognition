@@ -1,8 +1,17 @@
 # OBSの仮想カメラを用いる方法
 なるべくハードウェア（製品）を追加で導入しないで，音声認識を活用する方法です．
+この方法で実施するためのシステム構成は下記の図の通りになります．
+
+![接続イメージのテンプレ](fig/template/Template_Using_2pc-JP.jpg)
 
 
-![システム](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Remote_Voice_Recognition-Using_2pc_ThetaAkihisa-JP.jpg)
+なお，テンプレートのデータを配布していますので，各自マニュアル作成などに役に立てれば嬉しいです．
+  - [JPG形式データ（画像）](fig/template/Template_Using_2pc-JP.jpg)
+  - [AI形式データ（Illustratorなどで用いるデータ）](fig/template/Template_Using_2pc-JP.ai)
+
+
+## 所属研究室にて用いたシステム構成
+![システム](fig/Remote_Voice_Recognition-Using_2pc_ThetaAkihisa-JP.jpg)
 
 用いた機器リスト
 - [MacBook Pro 2019 13インチ (CPU: 2.4GHz クアッドコア， メモリ: 8GB ，グラフィックス: Intel Iris Plus Graphics 655 1536MB)](https://support.apple.com/kb/SP795?viewlocale=ja_JP&locale=ja_JP)
@@ -18,6 +27,15 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+
   
   
   
