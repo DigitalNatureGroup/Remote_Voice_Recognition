@@ -25,7 +25,7 @@
 - [logicool HD WEBCAM C270M](https://www.logicool.co.jp/ja-jp/product/hd-webcam-c270h#specification-tabular)
   - 音声認識による文字起こしを収録するWebカメラ
   
-  
+## 接続様子
   
   
   
