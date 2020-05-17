@@ -16,7 +16,7 @@ Google 音声文字変換は，現状Android向けアプリのみで利用可能
 しかし，Google 音声文字変換は，Androidにしか配布されていないアプリであるため，PCに音源を送信するかを考慮する必要があります．今回は考慮したシステム構成4つの活用事例で紹介します．  
   - [2台のPCを用いる方法](case/Using_2pc)
     - 手元に2台のPCがある方向け  
-    <a href="url"><img src="case/fig/Thumbnail-Using_2pc_ThetaAkihisa-JP.jpg" align="center" height="250"></a>
+    <a href="url"><img src="case/fig/Thumbnail-Using_2pc_ThetaAkihisa-JP.jpg" align="center" height="300"></a>
   - [ビデオスイッチャーを用いる方法](case/Using_VideoSwitcher)
     - 手元にビデオスイッチャーがある方向け
   - [Zoom上でOBSの仮想カメラを用いる方法](case/Using_OBS_in_zoom)
