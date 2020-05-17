@@ -11,7 +11,7 @@
 
 
 ## 所属研究室にて用いたシステム構成
-![システム](fig/Remote_Voice_Recognition-Using_2pc_ThetaAkihisa-JP.jpg)
+![システム](fig/Using_2pc_ThetaAkihisa-JP.jpg)
 
 用いた機器リスト
 - [MacBook Pro 2019 13インチ (CPU: 2.4GHz クアッドコア， メモリ: 8GB ，グラフィックス: Intel Iris Plus Graphics 655 1536MB)](https://support.apple.com/kb/SP795?viewlocale=ja_JP&locale=ja_JP)
