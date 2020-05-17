@@ -24,24 +24,19 @@
   
 ## 接続様子
 1. 全ての機器を接続する
-
-  1. サブPCのMacBook ProにWebカメラのC270Mを接続する
-
-  1. Webカメラと接続したサブPCに，iXZと接続したRubixを接続する
-
-  1. AndroidスマホのPixel 4にiXZを接続する
+    
+    1. サブPCのMacBook ProにWebカメラのC270Mを接続する
+    
+    1. Webカメラと接続したサブPCに，iXZと接続したRubixを接続する
+    
+    1. AndroidスマホのPixel 4にiXZを接続する
 
 1. Web会議システムのZoomを起動する
-
-  1. 音声認識の音声文字変換を起動する
-  1. Pixel 4の画面をWebカメラで収録する
+    
+    1. 音声認識の音声文字変換を起動する
+    
+    1. Pixel 4の画面をWebカメラで収録する
 
 1. メインPCでZoomを起動する
-  
-  
-  
-  
-  
-  
-  
-  
+    
+    
