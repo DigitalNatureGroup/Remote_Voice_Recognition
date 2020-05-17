@@ -1,5 +1,6 @@
-# 2台のPCを用いる方法
-音声認識を活用する用PC，自分が参加する用PCの2台で活用する方法です．
+# ビデオスイッチャーを用いる方法
+ビデオスイッチャーを用いて音声認識を活用する方法です．
+
 
 ![システム](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Remote_Voice_Recognition-Using_2pc_ThetaAkihisa-JP.jpg)
 
