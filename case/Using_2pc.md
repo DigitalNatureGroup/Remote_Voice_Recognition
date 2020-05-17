@@ -1,6 +1,16 @@
 # 2台のPCを用いる方法
 音声認識を活用する用PC，自分が参加する用PCの2台で活用する方法です．
+この方法で実施するためのシステム構成は下記の図の通りになります．
 
+![接続イメージのテンプレ](fig/template/Template_Using_2pc-JP.jpg)
+
+
+なお，テンプレートのデータを配布していますので，各自マニュアル作成などに役に立てれば嬉しいです．
+  - [JPG形式データ（画像）](fig/template/Template_Using_2pc-JP.jpg)
+  - [AI形式データ（Illustratorなどで用いるデータ）](fig/template/Template_Using_2pc-JP.ai)
+
+
+## 所属研究室にて用いたシステム構成
 ![システム](fig/Remote_Voice_Recognition-Using_2pc_ThetaAkihisa-JP.jpg)
 
 用いた機器リスト
