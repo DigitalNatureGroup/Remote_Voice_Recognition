@@ -43,7 +43,7 @@
                 - PC，Androidの両方にダウンロード&インストールを済ませる
                 1. PCとAndroidをUSBで接続するもしくは同じWi-Fiに予め接続する
                 1. PCにてApowerMirrorを起動する
-                1. AndroidでApowerMirrorを起動し，ミラーリング出力する
+                1. AndroidでApowerMirrorを起動し，ミラーリング出力する  
             この[OBS-Mac-Vitrualcam](https://github.com/johnboiles/obs-mac-virtualcam#installing)にて説明されているので，参考しながら，予めインストールしておくと楽になります．  
              - [OSがWindowsの方はこちらを参考していただけると嬉しいです．](https://github.com/CatxFish/obs-virtual-cam/releases)
         1. OBSを起動し，内蔵カメラをビデオキャプチャする  
