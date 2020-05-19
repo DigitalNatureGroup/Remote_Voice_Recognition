@@ -25,13 +25,13 @@
   
 ## 接続様子
 1. 全ての機器を接続する
-![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/01.jpg)
+![](fig/Sample/01.jpg)
     1. サブPCのMacBook ProにRubixを接続する  
-      ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/01-2.jpg)
+      ![](fig/Sample/01-2.jpg)
     1. AndroidスマホのPixel 4にiXZを接続した上で，RubixとiXZを接続する  
-      ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/01-3.jpg)
+      ![](fig/Sample/01-3.jpg)
     1. サブPCにWebカメラのC270Mを接続する  
-      ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/01-1.jpg)
+      ![](fig/Sample/01-1.jpg)
         ※Androidスマホ画面が入るようにするために三脚などを工夫して用いることを推奨します
     
 
