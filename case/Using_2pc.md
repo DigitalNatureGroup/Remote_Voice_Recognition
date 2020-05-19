@@ -44,3 +44,4 @@
     ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera.gif)
     
     
+1. メインPCでZoomを起動して終わり
