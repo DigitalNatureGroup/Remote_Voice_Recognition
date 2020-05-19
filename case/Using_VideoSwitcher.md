@@ -31,9 +31,9 @@
 ## 接続様子
 1. 全ての機器を接続する
     1. PCのMacBook ProにRubixを接続する  
-      ![](fig/Sample/01-2.jpg)
+      ![](fig/Sample/AudioInterfaxe.jpg)
     1. AndroidスマホのPixel 4にiXZを接続した上で，RubixとiXZを接続する  
-      ![](fig/Sample/01-3.jpg)
+      ![](fig/Sample/iXZ.jpg)
     1. ATEM Mini ProにカメラのSIGMA fp，Google Chromecastを接続する
 
 1. Web会議システムのZoomを起動する    
