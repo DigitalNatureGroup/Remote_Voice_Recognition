@@ -20,22 +20,18 @@
   |[Roland Rubix24](https://www.roland.com/jp/products/rubix24/)|USB Audio Interface|
   |[Google Pixel 4](https://store.google.com/jp/product/pixel_4)|Google 音声文字変換を用いるAndroid|
   |[TASCAM iXZ](https://tascam.jp/jp/product/ixz/top)|USB Audio InterfaceからAndroidに接続するための変換インターフェース|
-  |[SIGMA fp](https://www.sigma-global.com/jp/cameras/fp-series/)|自分の様子を撮影するカメラ|
 
   
 ## 接続様子
 1. 全ての機器を接続する
-    
-    1. MacBook ProにカメラのSIGMA fpを接続する
-    
-    1. iXZと接続したRubixを接続する
-    
-    1. AndroidスマホのPixel 4にiXZを接続する
+![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/01.jpg)
+    1. サブPCのMacBook ProにRubixを接続する  
+      ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/01-2.jpg)
+    1. AndroidスマホのPixel 4にiXZを接続した上で，RubixとiXZを接続する  
+      ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/01-3.jpg)
 
 1. Web会議システムのZoomを起動する
-    
     1. 音声認識の音声文字変換を起動する
-    
     1. OBSを起動し，仮想カメラ機能を用いて，Pixel 4の画面を収録する
         1. Androidの画面収録（ミラーリング）を設定します．なお，下記の３通りから選択して実施してください
             - [AirServer](https://www.airserver.com)
