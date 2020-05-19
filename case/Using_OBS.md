@@ -37,12 +37,19 @@
     1. 音声認識の音声文字変換を起動する
     
     1. OBSを起動し，仮想カメラ機能を用いて，Pixel 4の画面を収録する
+        1. Androidの画面収録（ミラーリング）のやり方について
+            - [AirServer](https://www.airserver.com)
+                - PCにダウンロード&インストールを済ませる
+                1. 
+            - [ApowerMirror](https://www.apowersoft.jp/phone-mirror)
+                - PC，Androidの両方にダウンロード&インストールを済ませる
+                1. 
+            - USB to HDMI
+                - AndroidスマホによってはHDMI出力ができない場合があります
+                1. 
         1. OBSの仮想カメラについて  
-            この[OBS-Mac-Vitrualcam](https://github.com/johnboiles/obs-mac-virtualcam#installing)にて説明されているので，参考しながら，予めインストールしておくと楽になります．
-              
-          
-            - [OSがWindowsのかたはこちらを参考していただけると嬉しいです．](https://github.com/CatxFish/obs-virtual-cam/releases)
-            -   - Mac版はこちらを参考していただけると嬉しいです
+            この[OBS-Mac-Vitrualcam](https://github.com/johnboiles/obs-mac-virtualcam#installing)にて説明されているので，参考しながら，予めインストールしておくと楽になります．  
+             - [OSがWindowsの方はこちらを参考していただけると嬉しいです．](https://github.com/CatxFish/obs-virtual-cam/releases)
         1. 
 
     
