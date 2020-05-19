@@ -12,7 +12,7 @@
 
 ## 所属研究室にて用いたシステム構成
 ![システム構成](fig/Using_2pc_ThetaAkihisa-JP.jpg)
-![用いた機器のまとめ](fig/Sample/01-Before.jpg)
+![用いた機器のまとめ](fig/Sample/1-Before.jpg)
 
 - 用いた機器リスト
   |機器名|目的|
@@ -25,7 +25,7 @@
   
 ## 接続様子
 1. 全ての機器を接続する
-![](fig/Sample/01-After.jpg)
+![](fig/Sample/1-After.jpg)
     1. サブPCのMacBook ProにRubixを接続する  
       ![](fig/Sample/AudioInterface.jpg)
     1. AndroidスマホのPixel 4にiXZを接続した上で，RubixとiXZを接続する  
