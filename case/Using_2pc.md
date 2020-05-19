@@ -12,6 +12,7 @@
 
 ## 所属研究室にて用いたシステム構成
 ![システム構成](fig/Using_2pc_ThetaAkihisa-JP.jpg)
+![用いた機器のまとめ](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/00.jpg)
 
 - 用いた機器リスト
   |機器名|目的|
@@ -38,5 +39,9 @@
     1. Pixel 4の画面をWebカメラで収録する
 
 1. メインPCでZoomを起動する
+    1. スピーカーの出力装置を選択する  
+    [](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound.gif)
+    1. ビデオの出力装置を選択する  
+    [](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera.gif)
     
     
