@@ -1,5 +1,5 @@
-# OBSの仮想カメラを用いる方法
-なるべくハードウェア（製品）を追加で導入しないで，音声認識を活用する方法です．
+# ビデオスイッチャーを用いる方法
+ビデオスイッチャーを用いて，音声認識を活用する方法です．なお，1台のPCになるべく負担をかけないようになっています．
 この方法で実施するためのシステム構成は下記の図の通りになります．
 
 ![接続イメージのテンプレ](fig/template/Template_Using_VideoSwitcher-JP.jpg)
@@ -10,11 +10,11 @@
   - [AI形式データ（Illustratorなどで用いるデータ）](fig/template/Template_Using_VideoSwitcher-JP.ai)
 
 
-## 所属研究室にて用いたシステム構成
+## 所属研究室にて用いるシステム構成
 ![システム](fig/Using_VideoSwitcher_ThetaAkihisa-JP.jpg)
 
 
-- 用いた機器リスト
+- 用いる予定の機器リスト
   |機器名|目的|
   |:---:|:---|
   |[MacBook Pro 2019 13インチ](https://support.apple.com/kb/SP795?viewlocale=ja_JP&locale=ja_JP)|音声認識を活用するPC|
@@ -22,6 +22,9 @@
   |[Google Pixel 4](https://store.google.com/jp/product/pixel_4)|Google 音声文字変換を用いるAndroid|
   |[TASCAM iXZ](https://tascam.jp/jp/product/ixz/top)|USB Audio InterfaceからAndroidに接続するための変換インターフェース|
   |[SIGMA fp](https://www.sigma-global.com/jp/cameras/fp-series/)|自分の様子を撮影するカメラ|
+  |[Blackmagicdesign ATEM Mini Pro](https://www.blackmagicdesign.com/jp/products/atemmini/techspecs/W-APS-14)|ピクチャー・イン・ピクチャー機能が搭載されているビデオスイッチャー|
+  |[Google Chromecast](https://store.google.com/jp/product/chromecast)|Androidのミラーリング用キャスト|
+  
 
   
 ## 接続様子
@@ -37,14 +40,7 @@
     
     1. 音声認識の音声文字変換を起動する
     
-    1. OBSを起動し，仮想カメラ機能を用いて，Pixel 4の画面を収録する
-        1. OBSの仮想カメラについて  
-            この[OBS-Mac-Vitrualcam](https://github.com/johnboiles/obs-mac-virtualcam#installing)にて説明されているので，参考しながら，予めインストールしておくと楽になります．
-              
-          
-            - [OSがWindowsのかたはこちらを参考していただけると嬉しいです．](https://github.com/CatxFish/obs-virtual-cam/releases)
-            -   - Mac版はこちらを参考していただけると嬉しいです
-        1. 
+    1. ZoomのビデオをATEM Mini Proに指定する
 
-    
+    1. ZoomのスピーカーをRubixを指定する
     
