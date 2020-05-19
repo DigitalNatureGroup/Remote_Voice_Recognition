@@ -40,8 +40,8 @@
 
 1. メインPCでZoomを起動する
     1. スピーカーの出力装置を選択する  
-    [](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound.gif)
+    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound.gif)
     1. ビデオの出力装置を選択する  
-    [](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera.gif)
+    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera.gif)
     
     
