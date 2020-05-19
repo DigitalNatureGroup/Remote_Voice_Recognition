@@ -12,6 +12,7 @@
 
 ## 所属研究室にて用いたシステム構成
 ![システム構成](fig/Using_OBS_ThetaAkihisa-JP.jpg)
+![用いた機器のまとめ](fig/Sample/0-Before.jpg)
 
 - 用いた機器リスト
   |機器名|目的|
@@ -24,11 +25,11 @@
   
 ## 接続様子
 1. 全ての機器を接続する
-![](fig/Sample/01.jpg)
+![](fig/Sample/0-After.jpg)
     1. サブPCのMacBook ProにRubixを接続する  
-      ![](fig/Sample/01-2.jpg)
+      ![](fig/Sample/AudioInterface.jpg)
     1. AndroidスマホのPixel 4にiXZを接続した上で，RubixとiXZを接続する  
-      ![](fig/Sample/01-3.jpg)
+      ![](fig/Sample/iXZ.jpg)
 
 1. Web会議システムのZoomを起動する
     1. 音声認識の音声文字変換を起動する
