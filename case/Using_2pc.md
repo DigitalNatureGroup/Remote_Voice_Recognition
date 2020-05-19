@@ -36,15 +36,11 @@
     
 
 1. Web会議システムのZoomを起動する
-    
     1. 音声認識の音声文字変換を起動する
-    
     1. Pixel 4の画面をWebカメラで収録する
-
-1. メインPCでZoomを起動する
-    1. スピーカーの出力装置を選択する  
-    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound.gif)
-    1. ビデオの出力装置を選択する  
+        1. スピーカーの出力装置を選択する  
+    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound.gif)  
+        1. ビデオの出力装置を選択する  
     ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera.gif)
     
     
