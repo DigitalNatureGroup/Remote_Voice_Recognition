@@ -4,7 +4,7 @@
 ## About / 概要
 聴覚障害者は音声会話が難しく，会議にも参加しづらいという問題があり，音声認識による文字起こしを用いてこれを解消しようと研究や開発が行われています．2020年5月現在，新型コロナウイルスの流行により，Web会議システムを用いたリモート会議が会議のほとんどになりつつあります．しかし，聴覚障害者は通常の対面会議よりもさらに会話への参加がしづらいため，音声認識の活用がより重要になります．そこで，聴覚障害当事者と所属研究室のメンバーで考案した，リモート会議における音声認識の活用方法を紹介します．
 
-[![thumbnail](https://pbs.twimg.com/ext_tw_video_thumb/1260610549529759745/pu/img/Hqi90pq6yoBZvtzT.jpg)](https://twitter.com/ochyai/status/1260610691041357825/video/1)
+[![](http://img.youtube.com/vi/1D3Btsn9__Q/0.jpg)](http://www.youtube.com/watch?v=1D3Btsn9__Q "Remote_Voice_Recognition")
 
 
 ##  方法
