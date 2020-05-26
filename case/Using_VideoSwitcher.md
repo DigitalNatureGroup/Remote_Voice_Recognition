@@ -3,7 +3,7 @@
 まだ，検討段階ですが，ご参考にしていただければ幸いです．
 この方法で実施するためのシステム構成は下記の図の通りになります．
 
-![接続イメージのテンプレ](fig/template/Template_Using_VideoSwitcher-JP.jpg)
+![接続イメージのテンプレ](fig/Template_Using_VideoSwitcher-JP-Light.jpg)
 
 
 なお，テンプレートのデータを配布していますので，各自マニュアル作成などに役に立てれば嬉しいです．
@@ -12,7 +12,7 @@
 
 
 ## 所属研究室にて用いるシステム構成
-![システム](fig/Using_VideoSwitcher_ThetaAkihisa-JP.jpg)
+![システム](fig/Using_VideoSwitcher_ThetaAkihisa-JP-Light.jpg)
 
 
 - 用いる予定の機器リスト
@@ -31,9 +31,9 @@
 ## 接続様子
 1. 全ての機器を接続する
     1. PCのMacBook ProにRubixを接続する  
-      ![](fig/Sample/AudioInterface.jpg)
+      ![](fig/Sample/AudioInterface-Light.jpg)
     1. AndroidスマホのPixel 4にiXZを接続した上で，RubixとiXZを接続する  
-      ![](fig/Sample/iXZ.jpg)
+      ![](fig/Sample/iXZ-Light.jpg)
     1. ATEM Mini ProにカメラのSIGMA fp，Google Chromecastを接続する
 
 1. Web会議システムのZoomを起動する    
