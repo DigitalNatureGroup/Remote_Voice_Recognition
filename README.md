@@ -16,13 +16,13 @@ Google 音声文字変換は，現状Android向けアプリのみで利用可能
 しかし，Google 音声文字変換は，Androidにしか配布されていないアプリであるため，PCに音源を送信するかを考慮する必要があります．今回は考慮したシステム構成3つの活用事例で紹介します．  
   - [2台のPCを用いる方法](case/Using_2pc.md)
     - 手元に2台のPCがある方やもう1台のPCを追加用意できる方向けです．1台のPCになるべく負担をかけないようになっています．   
-    <a href="url"><img src="case/fig/Thumbnail-Using_2pc_ThetaAkihisa-JP.jpg" alt="2台のPCを用いる方法のイメージ図" align="center" height="300"></a>
+    <a href="url"><img src="case/fig/Thumbnail-Using_2pc_ThetaAkihisa-JP-Light.jpg" alt="2台のPCを用いる方法のイメージ図" align="center" height="300"></a>
   - [ビデオスイッチャーを用いる方法](case/Using_VideoSwitcher.md)
     - 手元にビデオスイッチャーがある方向けです．1台のPCになるべく負担をかけないようになっています．  
-    <a href="url"><img src="case/fig/Thumbnail-Using_VideoSwitcher_ThetaAkihisa-JP.jpg" alt="2台のPCを用いる方法のイメージ図" align="center" height="300"></a>
+    <a href="url"><img src="case/fig/Thumbnail-Using_VideoSwitcher_ThetaAkihisa-JP-Light.jpg" alt="2台のPCを用いる方法のイメージ図" align="center" height="300"></a>
   - [OBSの仮想カメラを用いる方法](case/Using_OBS.md)
     - なるべくハードウェア（製品）を追加で導入したくない方向けです．その代わり，1台のPCに負担をかかってしまいます．  
-    <a href="url"><img src="case/fig/Thumbnail-Using_OBS_ThetaAkihisa-JP.jpg" alt="2台のPCを用いる方法のイメージ図" align="center" height="300"></a>
+    <a href="url"><img src="case/fig/Thumbnail-Using_OBS_ThetaAkihisa-JP-Light.jpg" alt="2台のPCを用いる方法のイメージ図" align="center" height="300"></a>
 
 
 ## 課題
