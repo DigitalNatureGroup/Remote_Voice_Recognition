@@ -2,7 +2,7 @@
 音声認識を活用する用PC，自分が参加する用PCの2台で活用する方法です．
 この方法で実施するためのシステム構成は下記の図の通りになります．
 
-![接続イメージのテンプレ](fig/template/Template_Using_2pc-JP.jpg)
+![接続イメージのテンプレ](fig/template/Template_Using_2pc-JP-Light.jpg)
 
 
 なお，テンプレートのデータを配布していますので，各自マニュアル作成などに役に立てれば嬉しいです．
@@ -11,8 +11,8 @@
 
 
 ## 所属研究室にて用いたシステム構成
-![システム構成](fig/Using_2pc_ThetaAkihisa-JP.jpg)
-![用いた機器のまとめ](fig/Sample/1-Before.jpg)
+![システム構成](fig/Using_2pc_ThetaAkihisa-JP-Light.jpg)
+![用いた機器のまとめ](fig/Sample/1-Before-Light.jpg)
 
 - 用いた機器リスト
   |機器名|目的|
@@ -25,13 +25,13 @@
   
 ## 接続様子
 1. 全ての機器を接続する
-![](fig/Sample/1-After.jpg)
+![](fig/Sample/1-After-Light.jpg)
     1. サブPCのMacBook ProにRubixを接続する  
-      ![](fig/Sample/AudioInterface.jpg)
+      ![](fig/Sample/AudioInterface-Light.jpg)
     1. AndroidスマホのPixel 4にiXZを接続した上で，RubixとiXZを接続する  
-      ![](fig/Sample/iXZ.jpg)
+      ![](fig/Sample/iXZ-Light.jpg)
     1. サブPCにWebカメラのC270Mを接続する  
-      ![](fig/Sample/WebCam.jpg)
+      ![](fig/Sample/WebCam-Light.jpg)
         ※Androidスマホ画面が入るようにするために三脚などを工夫して用いることを推奨します
     
 
@@ -39,9 +39,9 @@
     1. 音声認識の音声文字変換を起動する
     1. Pixel 4の画面をWebカメラで収録する
         1. スピーカーの出力装置を選択する  
-    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound.gif)  
+    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound-Light.gif)  
         1. ビデオの出力装置を選択する  
-    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera.gif)
+    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera-Light.gif)
     
     
 1. メインPCでZoomを起動して終わり
