@@ -37,6 +37,12 @@
 
 1. Web会議システムのZoomを起動する
     1. 音声認識の音声文字変換を起動する
+        ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound-Light.gif) 
+        1. スピーカーの出力装置を選択する  
+            1. マイクのアイコンの右上にある矢印をクリックする
+            1. スピーカーの部分にある，オーディオインターフェースのRubixを選択する
+            1. 起動した音声文字変換の設定画面にて，オーディオインターフェースと接続されているか確認する
+    
     1. OBSを起動し，仮想カメラ機能を用いて，Pixel 4の画面を収録する
         1. Android画面を出力（ミラーリング）します．なお，下記の３通りから選択して実施してください（やり方については各公式ホームページにて説明されています）
             - [AirServer](https://www.airserver.com)
@@ -49,17 +55,40 @@
                 1. PCにてApowerMirrorを起動する
                 1. AndroidでApowerMirrorを起動し，ミラーリング出力する  
             この[OBS-Mac-Vitrualcam](https://github.com/johnboiles/obs-mac-virtualcam#installing)にて説明されているので，参考しながら，予めインストールしておくと楽になります．  
-             - [OSがWindowsの方はこちらを参考していただけると嬉しいです．](https://github.com/CatxFish/obs-virtual-cam/releases)
-        1. OBSを起動し，内蔵カメラをビデオキャプチャする  
-            ![](fig/Sample/OBS-AirServer-0-Light.gif)
-        1. 出力したAndroid画面をウィンドウキャプチャする  
-            ![](fig/Sample/OBS-AirServer-1-Light.gif)
-        1. ウィンドウキャプチャしたAndroid画面にクロキーフィルタを通して，透明度を調整する  
-            ![](fig/Sample/OBS-AirServer-2-Light.gif)
+             - OSがWindowsの方は[こちら](https://github.com/CatxFish/obs-virtual-cam/releases)を参考していただけると嬉しいです．
+        1. OBSを起動し，内蔵カメラをビデオキャプチャする    
+            ![](fig/Sample/OBS-AirServer-0-Light.gif)  
+                1. ソースの下にある＋をクリックする
+                1. 表示された一覧から**映像キャプチャデバイス**を選択する
+                1. 表示された画面にある**OK**をクリックする
+                1. 次に表示された画面にある**デバイス**をクリックする
+                1. 表示された一覧から内蔵カメラ（FaceTime HD Camera (Built-in)）を選択する
+                1. OKをクリックし，閉じる
+                1. サイズと位置を調整する 
+                     ※Macではサイズ変更する際に，赤い点をoptionキーを押しながらクリックしている状態で動かせば，大きく小さくとできます
+        1. 出力したAndroid画面をウィンドウキャプチャする    
+            ![](fig/Sample/OBS-AirServer-1-Light.gif)  
+                1. 再びソースの下にある＋をクリックする
+                1. 表示された一覧から**ウィンドキャプチャ**を選択する
+                1. 表示された画面にある**OK**をクリックする
+                1. 次に表示された画面にある**[AirServer]Pixel 4・・・・**をクリックする
+                1. OKをクリックし，閉じる
+                1. サイズと位置を調整する  
+                     ※Macではサイズ変更する際に，赤い点をoptionキーを押しながらクリックしている状態で動かせば，大きく小さくとできます
+        1. ウィンドキャプチャしたAndroid画面にカラーキーフィルタで背景を透明化する   
+            ![](fig/Sample/OBS-AirServer-2-Light.gif)  
+                1. cにて作られたウィンドウキャプチャを右クリックメニューで開く
+                1. 開いた右クリックメニューからフィルタを選択する
+                1. 表示された画面にある**エフェクトフィルタ**の下にある＋をクリックする
+                1. 表示された一覧にある**カラーキー**をクリックする
+                1. OKをクリックし，閉じる
+                1. サイズ調整する  
     1. OBSの仮想カメラ機能をスタートさせる
         ![](fig/Sample/OBS-VirtualCamera-Light.gif)
+          1.  
     1. ZoomをGoogle Chromeで開き，ビデオをOBSの仮想カメラに設定する
-        ![](fig/Sample/Zoom-Start.gif)
+        ![](fig/Sample/Zoom-Start-Light.gif)
+          1. 
 
     
     
