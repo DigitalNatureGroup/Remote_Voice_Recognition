@@ -45,14 +45,14 @@
     1. 音声認識の音声文字変換を起動する 
     ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound-Light.gif) 
         1. スピーカーの出力装置を選択する  
-            1. マイクのアイコンの右上にある矢印をクリックする
-            1. スピーカーの部分にある，オーディオインターフェースのRubixを選択する
+            1. マイクのアイコンの右上にある**矢印**をクリックする
+            1. スピーカーの部分にある，**オーディオインターフェースのRubix**を選択する
             1. 起動した音声文字変換の設定画面にて，オーディオインターフェースと接続されているか確認する
             
     1. Pixel 4の画面をWebカメラで収録する
     ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera-Light.gif) 
         1. ビデオの出力装置を選択する  
-            1. ビデオのアイコンの右上にある矢印をクリックする
-            1. 接続されているC270M（USBカメラ）を選択する
+            1. ビデオのアイコンの右上にある**矢印**をクリックする
+            1. 接続されている**C270M（USBカメラ）**を選択する
     
 1. メインPCでZoomを起動して終わり
