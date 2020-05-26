@@ -37,7 +37,7 @@
     1. サブPCにWebカメラのC270Mを接続する  
       ![](fig/Sample/WebCam-Light.jpg) 
         1. MacBook ProとC270MをUSBケーブルで接続する（USB-TypeC 変換アダプタを用いました）
-        1. C270Mを三脚に設置し，Androidスマホ画面が入るように調整します
+        1. C270Mを三脚に設置し，Androidスマホ画面が入るように調整します   
         ※Androidスマホ画面が入るようにするために三脚などを工夫して用いることを推奨します
     
 
