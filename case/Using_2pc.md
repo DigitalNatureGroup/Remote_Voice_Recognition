@@ -27,21 +27,32 @@
 1. 全ての機器を接続する
 ![](fig/Sample/1-After-Light.jpg)
     1. サブPCのMacBook ProにRubixを接続する  
-      ![](fig/Sample/AudioInterface-Light.jpg)
+      ![](fig/Sample/AudioInterface-Light.jpg)  
+        1. MacBook ProとRubixをUSBケーブルで接続する（USB-TypeC 変換アダプタを用いました）
+        1. 予め，iXZと接続するためのTRケーブルを差し込んでおく
     1. AndroidスマホのPixel 4にiXZを接続した上で，RubixとiXZを接続する  
-      ![](fig/Sample/iXZ-Light.jpg)
+      ![](fig/Sample/iXZ-Light.jpg) 
+        1. ⅰのaで予め差し込んだTRケーブルでiXZに接続する
+        1. AndroidスマホとiXZを4Pミニプラグで接続する（4Pミニプラグ to USB-TypeC 変換アダプタを用いました）
     1. サブPCにWebカメラのC270Mを接続する  
-      ![](fig/Sample/WebCam-Light.jpg)
+      ![](fig/Sample/WebCam-Light.jpg) 
+        1. MacBook ProとC270MをUSBケーブルで接続する（USB-TypeC 変換アダプタを用いました）
+        1. C270Mを三脚に設置し，Androidスマホ画面が入るように調整します
         ※Androidスマホ画面が入るようにするために三脚などを工夫して用いることを推奨します
     
 
 1. Web会議システムのZoomを起動する
-    1. 音声認識の音声文字変換を起動する
-    1. Pixel 4の画面をWebカメラで収録する
+    1. 音声認識の音声文字変換を起動する 
+    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound-Light.gif) 
         1. スピーカーの出力装置を選択する  
-    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectSound-Light.gif)  
+            1. マイクのアイコンの右上にある矢印をクリックする
+            1. スピーカーの部分にある，オーディオインターフェースのRubixを選択する
+            1. 起動した音声文字変換の設定画面にて，オーディオインターフェースと接続されているか確認する
+            
+    1. Pixel 4の画面をWebカメラで収録する
+    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera-Light.gif) 
         1. ビデオの出力装置を選択する  
-    ![](https://github.com/DigitalNatureGroup/Remote_Voice_Recognition/blob/master/case/fig/Sample/SelectWebCamera-Light.gif)
-    
+            1. ビデオのアイコンの右上にある矢印をクリックする
+            1. 接続されているC270M（USBカメラ）を選択する
     
 1. メインPCでZoomを起動して終わり
