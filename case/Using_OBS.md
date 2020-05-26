@@ -2,7 +2,7 @@
 なるべくハードウェア（製品）を追加で導入しないで，音声認識を活用する方法です．
 この方法で実施するためのシステム構成は下記の図の通りになります．
 
-![接続イメージのテンプレ](fig/template/Template_Using_OBS-JP.jpg)
+![接続イメージのテンプレ](fig/Template_Using_OBS-JP-Light.jpg)
 
 
 なお，テンプレートのデータを配布していますので，各自マニュアル作成などに役に立てれば嬉しいです．
@@ -11,8 +11,8 @@
 
 
 ## 所属研究室にて用いたシステム構成
-![システム構成](fig/Using_OBS_ThetaAkihisa-JP.jpg)
-![用いた機器のまとめ](fig/Sample/0-Before.jpg)
+![システム構成](fig/Using_OBS_ThetaAkihisa-JP-Light.jpg)
+![用いた機器のまとめ](fig/Sample/0-Before-Light.jpg)
 
 - 用いた機器リスト
   |機器名|目的|
@@ -25,11 +25,15 @@
   
 ## 接続様子
 1. 全ての機器を接続する
-![](fig/Sample/0-After.jpg)
+![](fig/Sample/0-After-Light.jpg)
     1. サブPCのMacBook ProにRubixを接続する  
-      ![](fig/Sample/AudioInterface.jpg)
+      ![](fig/Sample/AudioInterface-Light.jpg)  
+        1. MacBook ProとRubixをUSBケーブルで接続する（USB-TypeC 変換アダプタを用いました）
+        1. 予め，iXZと接続するためのTRケーブルを差し込んでおく
     1. AndroidスマホのPixel 4にiXZを接続した上で，RubixとiXZを接続する  
-      ![](fig/Sample/iXZ.jpg)
+      ![](fig/Sample/iXZ-Light.jpg) 
+        1. ⅰのaで予め差し込んだTRケーブルでiXZに接続する
+        1. AndroidスマホとiXZを4Pミニプラグで接続する（4Pミニプラグ to USB-TypeC 変換アダプタを用いました）
 
 1. Web会議システムのZoomを起動する
     1. 音声認識の音声文字変換を起動する
@@ -47,13 +51,13 @@
             この[OBS-Mac-Vitrualcam](https://github.com/johnboiles/obs-mac-virtualcam#installing)にて説明されているので，参考しながら，予めインストールしておくと楽になります．  
              - [OSがWindowsの方はこちらを参考していただけると嬉しいです．](https://github.com/CatxFish/obs-virtual-cam/releases)
         1. OBSを起動し，内蔵カメラをビデオキャプチャする  
-            ![](fig/Sample/OBS-AirServer-0.gif)
+            ![](fig/Sample/OBS-AirServer-0-Light.gif)
         1. 出力したAndroid画面をウィンドウキャプチャする  
-            ![](fig/Sample/OBS-AirServer-1.gif)
+            ![](fig/Sample/OBS-AirServer-1-Light.gif)
         1. ウィンドウキャプチャしたAndroid画面にクロキーフィルタを通して，透明度を調整する  
-            ![](fig/Sample/OBS-AirServer-2.gif)
+            ![](fig/Sample/OBS-AirServer-2-Light.gif)
     1. OBSの仮想カメラ機能をスタートさせる
-        ![](fig/Sample/OBS-VirtualCamera.gif)
+        ![](fig/Sample/OBS-VirtualCamera-Light.gif)
     1. ZoomをGoogle Chromeで開き，ビデオをOBSの仮想カメラに設定する
         ![](fig/Sample/Zoom-Start.gif)
 
