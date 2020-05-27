@@ -7,6 +7,9 @@
 [![](http://img.youtube.com/vi/eMGSZDNgjJk/0.jpg)](http://www.youtube.com/watch?v=eMGSZDNgjJk "リモートミーティングでの音声認識の活用事例")
 
 
+また，ここにて紹介した方法以外の活用事例につきましても，一覧にまとめましたので，そちらもご参考にしていただけると嬉しいです．  
+  - [他の活用事例をまとめたリスト](case/Other_List.md)
+
 ##  方法
 文字起こしの方法として，**リアルタイムで会話を展開**することを重視し， [Google 音声文字変換](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe&hl=ja)
 による自動文字起こしを利用します．
