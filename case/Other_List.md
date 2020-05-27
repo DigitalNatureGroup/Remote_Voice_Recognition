@@ -26,34 +26,32 @@
   詳細は下記の記事から   
   (https://fairuse.jp/NR_20200311_RTT.html)
 
+1. ayuka氏による活用事例   
+[音声認識を滑舌練習に活用する。｜ayuka @ayuka_n #note](https://note.com/ayuka_n/n/n36e67331dabc)
+
+1. 周彩氏による活用事例   
+[音声認識による情報保障ツールのまとめ｜周彩 @syusai_mt #note](https://note.com/syusai/n/n2a2bce54990b)
 
 1. 諏訪真一氏による活用事例   
   [Mac × iPhone で zoom にリアルタイム字幕｜諏訪真一 @suwa_sh #note #リモートオフィス](https://note.com/suwash/n/n3e4be86c1ec5) 
-
-
+  
 1. SOUNDABILITY 2.0氏による活用事例   
   [【簡単】iPhoneとMacだけでリアルタイム字幕配信する方法｜音声文字変換](https://soundability.tokyo/pc/20023/)
-
 
 1. 情報管理LOGの@yoshinon氏による活用事例   
   [iOSでもできる！PC+iPhone+無料ツールで字幕付きZoomや配信する方法](http://hokoxjouhou.blog105.fc2.com/blog-entry-1677.html)
 
-
 1. えろまつり氏による活用事例   
  [落合陽一氏の「音声文字変換とスイッチャーで捗るビデオ文字コミュニケーション」をWindows10で再現してみた](https://eromatsuri.hatenablog.com/entry/2020/05/15/203803)
-
 
 1. 群馬大学障害学生サポートルームの皆様による情報公開   
   (https://sites.google.com/gunma-u.ac.jp/deafsup-guide)
 
-
 1. PEPNet-Japan（日本聴覚障害学生高等教育支援ネットワーク）の皆様によるコンテンツ集   
   (http://www.pepnet-j.org/web/modules/tinyd1/index.php?id=393)
-
 
 1. ShamrockRecords社による活用事例    
   [UDトークからZoomの字幕（クローズドキャプション）に送信する方法](https://teachme.jp/27228/manuals/8656888)
   
-
 1. 忘備録氏による活用事例   
   [Google 音声文字変換の活用](https://konnnnnok.hateblo.jp/entry/2020/05/15/004822)
