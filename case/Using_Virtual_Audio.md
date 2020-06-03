@@ -64,7 +64,7 @@
 [Loopback](https://rogueamoeba.com/loopback/)
 
 
-##参考資料
+## 参考資料
 1. [【Mac】Soundflowerのインストールと使い方・設定まとめ](https://appli-world.jp/posts/2831)
 1. [Macのサウンドを自由にルーティング/配信する　Soundflower / LadioCast の使い方](https://sleepfreaks-dtm.com/dtm-materials/mac-sound/)
 1. [最新のmacOSに対応し、SoundFlowerのように仮想オーディオ入出力を作成できるオープンソースのユーティリティ「BlackHole」がリリース。](https://applech2.com/archives/20191125-blackhole-for-mac-virtual-audio-driver-soundflower-alternative-app.html)
