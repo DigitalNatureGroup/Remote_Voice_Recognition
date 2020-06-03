@@ -2,6 +2,11 @@
 他にも記載されていない活用事例がございましたら，ご教示してくださると助かります．
 
 
+
+1. [フェアユース社による「リアルタイム翻訳ツール」の無料提供（聴覚障害者対象）](https://www.atpress.ne.jp/news/214034)  
+  詳細は下記のURLから
+  https://www.speechcanvas.jp/
+
 1. 落合陽一氏による活用事例  
 [![thumbnail](https://pbs.twimg.com/ext_tw_video_thumb/1260610549529759745/pu/img/Hqi90pq6yoBZvtzT.jpg)](https://twitter.com/ochyai/status/1260610691041357825)  
   詳細は下記の記事から  
