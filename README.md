@@ -68,8 +68,10 @@ ZOOMなどを利用する際はリアクションボタンがある程度役に�
 今回用意したハードウェア（製品）は，PCと比べて一般的に用いるようなものではなく，音楽や映像配信などを行う人が用いるような製品です．手元にない方は新しく購入する必要がありますが，やや高価です．また，新型コロナウイルスの影響により需要が増加しており，在庫が不足しているものも多く，すぐに手に入れることが難しい状況になっています．しかし，[この記事](https://konnnnnok.hateblo.jp/entry/2020/05/15/004822)に記載されている，**Sound Blaster PLAY! 3**，[東京大学PHEDのAT(支援機器)ライブラリ](https://phed.jp/at/)にて紹介されている，**iRig 2**は安価です．各自に適した仕様を持ち合わせたオーディオインターフェースを探せば，安価で購入することも可能です．  
   - [Creative社 **Sound Blaster PLAY! 3**](https://jp.creative.com/p/sound-blaster/sound-blaster-play-3)
   - [IK Multimedia社 **iRig 2**](https://hookup.co.jp/products/ik-multimedia/irig-2)
-    - [IK Multimedia : iRIG 2のAndroid対応デバイスについて](https://hookup.co.jp/support/posts/4355)
-
+    - [IK Multimedia : iRIG 2のAndroid対応デバイスについて](https://hookup.co.jp/support/posts/4355)  
+  
+オーディオインターフェースを用いないで相手の音声を認識する方法について追記しましたので，ご覧ください！（2020/06/06追記）
+  - [オーディオインターフェースを用いない方法](case/Using_Virtual_Audio.md)
   
 ### 6. アプリの安定性とネットワーク
 1時間ほどで使い続けていると，誤変換が増えていきます．アプリのキャッシュをクリアしたり，アプリを再起動したりすると元に戻ります．また，音声文字変換のアプリではインターネット接続が必須です．それだけではなく，一般的なWeb会議でも回線を圧迫することがあるため，日本語でもオフラインで認識することが可能になれば，ネットワーク問題については解消されるので，Googleのアップデートに期待しています．   
