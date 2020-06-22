@@ -43,9 +43,9 @@
     1. Soundflower (2ch) からSoundflower (64ch)へルーティング（転送）するように設定する  
     ![](fig/Sample/VirtyalAudio-6.jpg)  
         1. Input 1の部分にあるN/Aをクリックする
-        1. **Soundflowre (64ch)**を選択する
+        1. **Soundflower (64ch)** を選択する
         1. Main Outputの部分にあるN/Aをクリックする
-        1. **Soundflowre (2ch)**を選択する
+        1. **Soundflower (2ch)** を選択する
     
 1. Webカメラの映像に自動字幕を重ねるWebページを起動する  
      ![](fig/Sample/VirtyalAudio-4.jpg) 
