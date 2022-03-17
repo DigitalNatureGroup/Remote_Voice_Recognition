@@ -60,3 +60,7 @@
   
 1. 忘備録氏による活用事例   
   [Google 音声文字変換の活用](https://konnnnnok.hateblo.jp/entry/2020/05/15/004822)
+
+1．藤井孝弘氏によるConvivialChat
+[ProtoPediaヘの投稿](https://protopedia.net/prototype/2817)
+[第116回GN研究会のテクニカルレポート](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=217369&item_no=1&page_id=13&block_id=8)
